@@ -25,6 +25,6 @@ if __name__ == "__main__":
 
     trained_model = create_lstm_model()
     output_dir = r"C:\Users\JIM\Desktop\work\model_save"
-    
+
     save_model(trained_model, output_dir)
 
